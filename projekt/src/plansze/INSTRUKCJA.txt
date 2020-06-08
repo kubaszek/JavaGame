@@ -1,0 +1,25 @@
+Aby stworzyc wlasna plansze rozpisz rozdzielajac spacja trzy cechy kazdego z pol od 1-9 oraz 10 pol "czarnych",
+a - wspolrzedna i
+b - wspolrzedna j
+c - wartosc na polu (dla pol nie bioracych udzialu w rozgrywce (czarnych) zadeklaruj 0)
+
+przykladowy poczatek pliku txt z wlasna plansza wedlug schematu "a b c":
+1 4 0
+2 4 1
+3 6 7
+.
+.
+.
+
+
+	  _0___1___2___3___4___5___6___7___- j
+	0||__||__||__||__||__||__||__||__||
+	1||__||__||__||__||__||__||__||__||
+	2||__||__||__||__||__||__||__||__||
+	3||__||__||__||__||__||__||__||__||
+	4||__||__||__||__||__||__||__||__||
+	5||__||__||__||__||__||__||__||__||
+	6||__||__||__||__||__||__||__||__||
+	7||__||__||__||__||__||__||__||__||
+	|
+	i
